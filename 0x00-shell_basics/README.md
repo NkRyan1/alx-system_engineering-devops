@@ -4,3 +4,4 @@
 2-bring_me_home: brings one directly to the home directory
 4-listmorefiles: lists the files in the directory, including hidden files, in long format
 5-listfilesdigitonly: lists the files in the directory, including hidden files, in long format ,and with uid and gid in num
+6-firstdirectory: creates a directory named my_first_directory in the /tmp/ directory.
